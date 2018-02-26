@@ -1,4 +1,3 @@
-# React hot or cold solution
+# React Enzyme Tests 
 
-[GitHub](https://github.com/Thinkful-Ed/react-hot-cold)
-
+Experimenting with Enzyme tests on a pre-completed project
