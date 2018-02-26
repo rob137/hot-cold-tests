@@ -1,0 +1,8 @@
+Props and state: Does what's rendered reflect the component's props and state?
+Callbacks and events: Are callbacks fired when the user interacts with a component? Is the state updated correctly?
+
+
+game
+guess-form
+guess-section
+status-section
